@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: personal homepage of Dolphin Chan
+description: litte record and summary of what dolphin did
+plugins:
+  - jemoji
+url: "https://Dolphin-shar.github.io/"
+markdown: kramdown
