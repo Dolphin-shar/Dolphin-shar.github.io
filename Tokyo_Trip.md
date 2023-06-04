@@ -4,8 +4,8 @@
 ### Off-boarding from plane
 * Entering Tokyo from HND Airport
 
-![](photo_archieve/IMG_4352[1].JPG)
-![](photo_archieve/IMG_4356.JPG)<br>
+* ![](photo_archieve/IMG_4352[1].JPG)
+* ![](photo_archieve/IMG_4356.JPG)<br>
 
 ### Going to hotel
 
