@@ -14,15 +14,21 @@
 
 * Route token
 ![](photo_archieve/IMG_4361.JPG)
-* Taking Monorail to Asakusa
+* Taking Monorail to Ikebukuro
 ![](photo_archieve/IMG_4360.JPG)
 ![](photo_archieve/IMG_4372.JPG)
 ![](photo_archieve/IMG_4374.JPG)
 ![](photo_archieve/IMG_4376.JPG)
 ![](photo_archieve/IMG_4377.JPG)
 
-* Arrived Asakusa
+* Arrived Ikebukuro
 ![](photo_archieve/IMG_4384.JPG)
+
+After putting down luggage and everything in Hotel Metropolitan Tokyo Ikebukuro, we started going to Asakusa Temple 浅草寺 area, but before we visit the temple, a sukiyaki lunch was booked.
+
+### Asakusa
+
+#### Sukiyaki lunch
 
 
 update
