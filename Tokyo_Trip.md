@@ -2,10 +2,10 @@
 ## [Home](README.md)
 ## Arrival Time: 10:35 a.m.
 ### Off-boarding from plane
-Entering Tokyo from HND Airport
+* Entering Tokyo from HND Airport
 
-* ![](photo_archieve/IMG_4352[1].JPG)
-* ![](photo_archieve/IMG_4356.JPG)<br>
+![](photo_archieve/IMG_4352[1].JPG)
+![](photo_archieve/IMG_4356.JPG)<br>
 
 ### Going to hotel
 
@@ -19,5 +19,10 @@ Entering Tokyo from HND Airport
 ![](photo_archieve/IMG_4372.JPG)
 ![](photo_archieve/IMG_4374.JPG)
 ![](photo_archieve/IMG_4376.JPG)
+![](photo_archieve/IMG_4377.JPG)
+
+* Arrived Asakusa
+![](photo_archieve/IMG_4384.JPG)
+
 
 update
