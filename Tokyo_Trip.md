@@ -3,14 +3,18 @@
 ## Arrival Time: 10:35 a.m.
 ### Off-boarding from plane
 Entering Tokyo from HND Airport
-- ![](photo_archieve/IMG_4352[1].JPG)
-![](photo_archieve/IMG_4356.JPG)<br>
+
+* ![](photo_archieve/IMG_4352[1].JPG)
+* ![](photo_archieve/IMG_4356.JPG)<br>
+
 ### Going to hotel
-- Waiting train
+
+* Waiting train
 ![](photo_archieve/IMG_4357.JPG)
-- Route token
+
+* Route token
 ![](photo_archieve/IMG_4361.JPG)
-- Taking Monorail to Asakusa
+* Taking Monorail to Asakusa
 ![](photo_archieve/IMG_4360.JPG)
 ![](photo_archieve/IMG_4372.JPG)
 ![](photo_archieve/IMG_4374.JPG)
