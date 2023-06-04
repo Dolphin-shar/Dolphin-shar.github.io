@@ -1,5 +1,5 @@
 # Day 1
-## [home](README.md)
+## [Home](README.md)
 ## Arrival Time: 10:35 a.m.
 ### Off-boarding from plane
 - ![](photo_archieve/IMG_4352[1].JPG)
