@@ -5,3 +5,5 @@ here is [some_conneection](some_connection.md)
 Here is a connection to my record on the [Trip to Tokyo](Tokyo_Trip.md)<br>
 I am also a coder myself and this is my modulised solution for some problem,<br>
 <!-- * [Michealis Menten](Michaelis_menten.md) -->
+
+https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one for markdown all in one documentation
